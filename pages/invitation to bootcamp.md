@@ -1,9 +1,9 @@
-- ciradel genesis
+- citadel genesis
 - meta
 	- better life - motivation
 	- in case of bad events - i am protected, in good case - i will live more happily and eat good food
 - did you know that you can afford autonomy and freedom by the cost of the car?
-- what do you like more? lush green forest and or high tech concrete wall?
+- what do you like more? lush green forest or high tech concrete wall?
 - well-known fact population density tightly correlates with our happiness
 - but how to build your personal autonomy? (what your personal autonomy made of?)
 - here is what your personal autonomy comprises
